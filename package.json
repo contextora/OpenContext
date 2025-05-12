@@ -1,0 +1,13 @@
+{
+  "name": "opencontext",
+  "version": "1.0.0",
+  "description": "AI agent factory for decentralized blockchain interaction",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "license": "MIT"
+}
